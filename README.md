@@ -43,12 +43,6 @@ Working knowledge across **AWS** and **Microsoft Azure**, including:
 
 ---
 
-## ✍️ Technical Writing  
-I regularly publish technical articles on DevOps and cloud infrastructure at:  
-🔗 [Medium – @patelpriyanka.er](https://medium.com/@patelpriyanka.er)
-
----
-
 ## 📨 Contact & Profiles  
 📧 Email: [patelpriyanka.er@gmail.com](mailto:patelpriyanka.er@gmail.com)  
 🌐 Freelancer: [freelancer.com/u/PriyankaDevOpsIT](https://www.freelancer.com/u/PriyankaDevOpsIT)
@@ -56,4 +50,6 @@ I regularly publish technical articles on DevOps and cloud infrastructure at:
 ---
 
 ## ⚙️ Work Philosophy  
+I meet all client requirements, then continue refining until the system meets the production standards I trust—stable, maintainable, and built for long-term use.
+I focus on projects where my expertise adds clear value and the execution can meet a high technical bar.
 Automate what can be automated. Secure what needs to be protected. Keep production stable.
