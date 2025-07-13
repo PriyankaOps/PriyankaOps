@@ -51,5 +51,7 @@ Working knowledge across **AWS** and **Microsoft Azure**, including:
 
 ## ⚙️ Work Philosophy  
 I meet all client requirements, then continue refining until the system meets the production standards I trust—stable, maintainable, and built for long-term use.
+
 I focus on projects where my expertise adds clear value and the execution can meet a high technical bar.
+
 Automate what can be automated. Secure what needs to be protected. Keep production stable.
